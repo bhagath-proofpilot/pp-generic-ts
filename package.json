@@ -1,0 +1,13 @@
+{
+  "name": "pp-generic-ts",
+  "version": "1.0.0",
+  "description": "Proofpilot Generics",
+  "main": "index.js",
+  "module": "index.esm.js",
+  "types": "index.d.ts",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.3.1"
+  }
+}
