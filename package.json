@@ -1,5 +1,5 @@
 {
-  "name": "pp-generic-ts",
+  "name": "fegeneric-react",
   "version": "1.0.0",
   "description": "Proofpilot Generics",
   "main": "index.js",
@@ -12,6 +12,10 @@
   },
   "peerDependencies": {
     "react": "^18.x.x",
-    "react-dom": "^18.x.x"
-  }
+    "react-dom": "^18.x.x",
+    "axios": "^0.27.2"
+  },
+  "files": [
+    "dist"
+  ]
 }
